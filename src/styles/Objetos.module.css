@@ -1,0 +1,17 @@
+#objetos{
+    width: 90%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#objeto{
+    width: 90%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#objetos a{
+    text-decoration: none;
+}
